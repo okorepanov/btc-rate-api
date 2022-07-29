@@ -8,7 +8,7 @@ GO API project, that works with BTC-UAH rate
 
 # Setup
 After cloning this repo, there needed few more steps before working with it:
-1. For successful email sendind add your mail credentials to .env.template file (EMAIL_ADDRESS, PASSWORD).
+1. For successful email sending add your mail credentials to ```.env``` file (EMAIL_ADDRESS, PASSWORD).
 >If you have 2-factor authentication on your account, you have to pass your application-password to PASSWORD field.
 
 2. To work via Dockerfile yo have to:

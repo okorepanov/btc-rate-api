@@ -1,5 +1,5 @@
 # btc-rate-api
-GOl API project, that works with BTC-UAH rate
+GO API project, that works with BTC-UAH rate
 
 # Endpoints
 1. **GET** /rate - returns current BTC-UAH rate

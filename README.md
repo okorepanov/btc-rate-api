@@ -30,7 +30,7 @@ After cloning this repo, there needed few more steps before working with it:
 # Endpoints results
 
 <img width="970" alt="Screenshot 2022-07-29 at 12 10 33" src="https://user-images.githubusercontent.com/59099358/181728006-1b7d26cc-b90e-48d6-94f1-448961a2c38b.png">
-<img width="963" alt="Screenshot 2022-07-29 at 12 11 33" src="https://user-images.githubusercontent.com/59099358/181728018-cf9a95fc-7aeb-4033-9ba1-31a4d051e225.png">
+<img width="975" alt="Screenshot 2022-07-30 at 15 12 24" src="https://user-images.githubusercontent.com/59099358/181913711-10703c74-42f7-4ab6-91e2-a1b057f8a46b.png">
 <img width="974" alt="Screenshot 2022-07-29 at 12 24 11" src="https://user-images.githubusercontent.com/59099358/181728871-e425efe9-7af2-48e1-b578-a64f724361ea.png">
 
 # Useful Links

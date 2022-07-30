@@ -16,7 +16,7 @@ func returnBtcUahRate(context *gin.Context) {
 
 func appendEmailToFile(context *gin.Context) {
 	newEmailAddress := EmailAddress{}
-	check(context.ShouldBindJSON(&newEmailAddress))
+	check(context.Bind(&newEmailAddress))
 
 	if !isEmailValid(newEmailAddress.Email) {
 		context.JSON(http.StatusBadRequest, "EMAIL_IS_NOT_VALID")
